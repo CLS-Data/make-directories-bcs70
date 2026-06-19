@@ -30,7 +30,8 @@ ukds_folders <- tribble(
   '8288', 'Age 16, Sweep 4 Reading and Matrices Tests, 1986', '16y',
   '8547', 'Age 46, Sweep 10, 2016-2018', '46y',
   '8611', 'Age 46, Sweep 10 Accelerometry Data, 2016-2018', '46y',
-  '8618', 'Age 16, Sweep 4 Dietary Diaries, 1986', '16y'
+  '8618', 'Age 16, Sweep 4 Dietary Diaries, 1986', '16y',
+  '9347', 'Age 51, Sweep 11, 2021-2024', '51y'
 )
 
 ukds_dict <- ukds_folders %>%
